@@ -1,13 +1,9 @@
-# 👋 Hey, I’m @dataagent-k  
-
-🚀 **Data whisperer by day, automation wizard by night.**  
-I turn chaos into clarity—one dataset, one AI model, one automation at a time.  
+# 👋 Hey, I’m Kartik
 
 ## ⚡ Quick Bytes:  
-- 🛠 Building **AI agents & data infra** that work smarter, not harder  
-- 🧠 Learning **ML, deep learning, and some programming magic**  
-- 🤝 Open to **collabs on AI/data-driven madness**  
-- 💡 On a mission to create **"Aether"—the future of AI programming**  
+- 🛠 Building **AI agents** @opencrew that work smarter, not harder
+- 🧠 Good at **ML, deep learning, and LLMs** 
+- 🤝 Open to **collabs on AI/data-driven projects**  
 
 ## 📬 Let’s Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kdataagent) | 🐦 [Twitter/X](https://x.com/kdataagent) 
