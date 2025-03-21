@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Kartik
 
 ## ⚡ Quick Bytes:  
-- 🛠 Building **AI agents** @opencrew that work smarter, not harder
+- 🛠 Building **AI agents** @opencrew that learn over time
 - 🧠 Good at **ML, deep learning, and LLMs** 
 - 🤝 Open to **collabs on AI/data-driven projects**  
 
