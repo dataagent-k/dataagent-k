@@ -5,7 +5,7 @@
 - 🧠 Good at **ML, deep learning, and LLMs** 
 - 🤝 Open to **collabs on AI/data-driven projects**  
 
-⚡ Fun Fact: I automate so much, I might just automate this README next. 😏  
+⚡ Fun Fact: I automate so much, I might just automate this README next. (P.S. I already did 😏)  
 
 
 
